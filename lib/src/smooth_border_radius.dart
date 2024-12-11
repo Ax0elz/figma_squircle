@@ -1,3 +1,5 @@
+// ignore_for_file: unused_element
+
 import 'package:flutter/rendering.dart';
 
 import 'path_smooth_corners.dart';
